@@ -1,3 +1,4 @@
 *://coderedirect.com/*
 *://exceptionshub.com/*
 *://*.quora.com/*
+*://*.javaer101.com/*
